@@ -1,6 +1,6 @@
 # MMDetection For Remote Sensing
 
-**News**: We released the technical report on [ArXiv](https://arxiv.org/abs/1906.07155).
+**News**: This project is base on mmdetection to reimplement RRPN and use the model Faster R-CNN OBB
 
 ## Introduction
 
@@ -9,7 +9,7 @@ The master branch works with **PyTorch 1.1** or higher.
 mmdetection is an open source object detection toolbox based on PyTorch. It is
 a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
 
-![demo image](demo/coco_test_12510.jpg)
+![demo image](demo/P1858.png)
 
 
 ## Benchmark and model zoo
